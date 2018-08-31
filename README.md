@@ -1,4 +1,4 @@
-# GitLabFred
+# GitlabFred
 
 A GitLab alfred workflow.
 
