@@ -1,5 +1,6 @@
 # GitLabFred
-A Wonderful GitLab Alfred workflow.
+
+A GitLab alfred workflow.
 
 ![预览](https://github.com/hechen/GitLabFred/blob/master/.assets/all.png)
 
@@ -20,10 +21,6 @@ A Wonderful GitLab Alfred workflow.
 
 ## Mark all your todos done.
 ![gitlab mark all todos done](https://github.com/hechen/GitLabFred/blob/master/.assets/glclr.png)
-
-
-More workflow will come😘.
-
 
 
 
